@@ -1,4 +1,4 @@
-# 🕵️‍♂️ NLW Agents
+# 🕵️‍♂️ Agents
 
 Projeto desenvolvido durante o evento **Next Level Week (NLW) utilizando tecnologias modernas para criação de uma API robusta e eficiente.
 
